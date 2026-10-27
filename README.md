@@ -51,7 +51,22 @@ A mock interview in several rounds, each of which must be passed to unlock the n
 
 ## Screenshots
 
-_Coming soon._
+### Landing page
+![CentAI landing page](screenshots/01-landing.png)
+
+### Live interview round
+Voice answers are transcribed live, and you can correct the transcript before submitting.
+![Live mock interview round](screenshots/02-live-interview.png)
+
+### From transcript to verdict
+Each answer is mapped to rubric signals, then scored on five dimensions.
+![Answer evaluation and readiness verdict](screenshots/03-evaluation.png)
+
+### Resume Optimizer
+![Resume Optimizer results](screenshots/04-resume-optimizer.png)
+
+### Question Generator
+![Question Generator bank](screenshots/05-question-generator.png)
 
 ---
 
